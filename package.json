@@ -1,6 +1,6 @@
 {
   "name": "@darraghor/react-folder-tree",
-  "version": "5.0.3",
+  "version": "1.0.0",
   "description": "Cloned from main react-folder-tree to add clickable folder names",
   "main": "dist/react-folder-tree.bundle.js",
   "typings": "index.d.ts",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darraghoriordan/react-folder-tree.git"
+    "url": "git+https://github.com/darraghoriordan/react-folder-tree.git"
   },
   "license": "MIT",
   "private": false,
@@ -108,5 +108,9 @@
     "prop-types": "^15.8.1",
     "react-icons": "^4.7.1",
     "use-tree-state": "1.1.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/darraghoriordan/react-folder-tree/issues"
+  },
+  "homepage": "https://github.com/darraghoriordan/react-folder-tree#readme"
 }
